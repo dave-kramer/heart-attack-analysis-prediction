@@ -2,6 +2,7 @@
 Dave Kramer (2021)
 
 ## Welcome to this project on Heart Attack Analysis & Prediction
+Load into the notebook.ipynb to see the complete overview.
 
 ## Description
 As heart attacks in younger people are becoming more common I was interested in trying to predict whether on not someone will have heart disease based on serveral factors related to their current health and other heart realted issues.
