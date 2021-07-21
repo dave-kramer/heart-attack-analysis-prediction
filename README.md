@@ -27,7 +27,7 @@ There are a couple columns that are not self-explanatory so here is some more in
   - target: Heart disease (0 = no, 1 = yes)
 
 ## Libraries
-I'm used the following libraries:
+I've used the following libraries:
 
   - Pandas
   - Numpy
